@@ -2,7 +2,6 @@
 
 A computer vision application that lets you control your mouse using hand gestures captured from a webcam. Built with Google MediaPipe for hand landmark detection and PyAutoGUI for mouse automation.
 
-**Team:** Mira Emad · Alya Mohamed · Youssef Fathy · Habiba Khalil
 
 ---
 
